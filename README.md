@@ -1,16 +1,32 @@
-## Hi there 👋
+# 💻 Mohammed's GitHub Profile
 
-<!--
-**ayoubm11/ayoubm11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Header](https://github.com/username/repo/blob/main/header_image.png)
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I am a cybersecurity enthusiast with expertise in web application pentesting, DevOps, and DevSecOps. My goal is to secure digital environments and share my knowledge with the community.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+
+- 🔒 **Web Application Pentesting**: Conducting penetration tests to identify and fix vulnerabilities.
+- 🛡️ **Cybersecurity**: Working on defense strategies, incident management, and compliance.
+- 🔧 **DevOps & DevSecOps**: Integrating security practices into the development cycle and CI/CD pipelines.
+
+## 🚀 Skills
+
+- **Programming Languages**: Python, JavaScript, Bash
+- **Pentesting Tools**: Burp Suite, OWASP ZAP, Nmap, Metasploit
+- **DevOps**: Docker, Kubernetes, Jenkins, Ansible, Gitlab-CI
+- **Cloud**: AWS, Azure, GCP
+- **Security**: SIEM, IDS/IPS, WAF, IAM
+
+## 📫 Contact Me
+
+- 📧 Email: [ayoubmouradi70@gmail.com](mailto:email@example.com)
+- 💼 LinkedIn: [linkedin.com/in/username](https://linkedin.com/in/username)
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=username&color=blue)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=username&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
