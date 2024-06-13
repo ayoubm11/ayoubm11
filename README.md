@@ -20,8 +20,8 @@ Welcome to my GitHub profile! I am a cybersecurity enthusiast with expertise in 
 
 ## 📫 Contact Me
 
-- 📧 Email: [ayoubmouradi70@gmail.com]
-- 💼 LinkedIn: [linkedin.com/in/mouradi-ayoub](www.linkedin.com/in/mouradi-ayoub)
+- 📧 Email: ayoubmouradi70@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/mouradi-ayoub
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=username&color=blue)
