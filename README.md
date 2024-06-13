@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **ChatOps**
 
-- 💬 Ask me about **Devsecops**
+- 💬 Ask me about **Web Application Pentesting and Devsecops**
 
 - 📫 How to reach me **ayoubmouradi70@gmail.com**
 
