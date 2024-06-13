@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ayoub MOURADI</h1>
-<h3 align="center">Cybersecurity and Cloud Technologies Specialist | DevSecOps</h3>
+<h3 align="center"> Cybersecurity and Cloud Technologies Specialist | DevSecOps</h3>
 
-- 🔭 I’m currently working on **ChatOps**
+- 🔭 I’m currently working on ** ChatOps using Copilot and the latest technologies **
 
-- 💬 Ask me about **Devsecops**
+- 📫 How to reach me ** ayoubmouradi70@gmail.com **
 
-- 📫 How to reach me **ayoubmouradi70@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> Connect with me </h3>
 <p align="left">
 <a href="https://linkedin.com/in/mouradi-ayoub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mouradi-ayoub" height="30" width="40" /></a>
 </p>
