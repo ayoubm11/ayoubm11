@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayoub MOURADI</h1>
-<h3 align="center">Cybersecurity and Cloud Technologies Specialist | DevSecOps</h3>
+<h3 align="center">Software Engineering | Cloud & DevOps </h3>
 
 - 📫 How to reach me **ayoubmouradi70@gmail.com**
 
