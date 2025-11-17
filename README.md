@@ -50,12 +50,12 @@
 
 #### 💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,csharp,cpp,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,csharp" />
 </p>
 
-#### ⚙️ Frameworks & Libraries
+#### ⚙️ Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,angular,react,vue,flutter,django,express,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=spring,angular,react,django,express" />
 </p>
 
 #### ☁️ DevOps & Cloud
